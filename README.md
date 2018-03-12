@@ -1,5 +1,8 @@
+
 **The Command Line**
 
+
+** customise your command line**
 
  There are the original command-line tools, and there are many graphical user interfaces of varying capabilities. 
  Also you can create youe own command line.
@@ -7,6 +10,9 @@
  customise your command line to make it pretty and useful (ie. git branch/branch status parser)
 to modify or build according to individual or personal specifications orpreference:
 to customize an automobile.
+
+
+**Install using a package manager**
 
 
 **Ubuntu** is based on **Debian** and all software packages are **.deb** files.
@@ -69,7 +75,7 @@ You can install it using **sudo dpkg -i /path/to/deb/file** followed by **sudo a
 **Uninstalling Programs with Terminal:**
 ## There are 2 ways to uninstall ubunto software
 
-**1. First way**
+**1. First way using terminal**
 
 
 **dpkg --list**   get the list of programs inastalled.
